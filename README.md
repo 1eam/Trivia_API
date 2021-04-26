@@ -28,7 +28,7 @@ And in addition prevents the corrects answer from being exposed in the JSON resp
 - **✨Magic ✨**
 
 ## Run
-Standalone 
+Standalone
 
 - git checkout 7b794dbffe62d4ac8f2273bb69c7d280f311ab6d
 - Navigate to pom.xml
@@ -37,11 +37,12 @@ Standalone
 _*Note that the endpoints in this commithash are
 http://localhost:8080/questions & http://localhost:8080/getanswer_
 
+
 ------------------------
 _For the entire application to run including an API Gateway & a discovery service_
 - _First run the [DescoveryService](https://github.com/1eam/Trivia_API/tree/master/Quad%20-%20Trivia%20DiscoveryService)_
 - _Then the [API Gateway](https://github.com/1eam/Trivia_API/tree/master/Quad%20-%20Trivia%20API%20Gateway)_
-- _And lastly This TriviaAPI server_
+- _And lastly The [TriviaAPI server](https://github.com/1eam/Trivia_API/tree/master/Quad%20-%20TriviaApi)_
 
 
 
