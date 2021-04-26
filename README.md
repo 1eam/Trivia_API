@@ -34,6 +34,10 @@ Standalone
 - Navigate to pom.xml
 - Execute ```mvn spring-boot:run```
 
+_*Note that the endpoints in this commithash are
+http://localhost:8080/questions & http://localhost:8080/getanswer_
+
+
 ------------------------
 _For the entire application to run including an API Gateway & a discovery service_
 - _First run the [DescoveryService](https://github.com/1eam/Trivia_API/tree/master/Quad%20-%20Trivia%20DiscoveryService)_
