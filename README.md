@@ -30,6 +30,7 @@ And in addition prevents the corrects answer from being exposed in the JSON resp
 ## Run
 Standalone
 
+- git checkout 7b794dbffe62d4ac8f2273bb69c7d280f311ab6d
 - Navigate to pom.xml
 - Execute ```mvn spring-boot:run```
 
