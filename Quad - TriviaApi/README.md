@@ -37,6 +37,19 @@ And in addition prevents the corrects answer from being exposed in the JSON resp
 }
 ```
 
+## Run
+Standalone
+
+- Navigate to pom.xml
+- Execute ```mvn spring-boot:run```
+
+------------------------
+_For the entire application to run including an API Gateway & a discovery service_
+- _First run the [DescoveryService](https://github.com/1eam/Trivia_API/tree/master/Quad%20-%20Trivia%20DiscoveryService)_
+- _Then the [API Gateway](https://github.com/1eam/Trivia_API/tree/master/Quad%20-%20Trivia%20API%20Gateway)_
+- _And lastly This TriviaAPI server_
+
+
 
 ## About Application
 
