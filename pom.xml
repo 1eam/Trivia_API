@@ -22,7 +22,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-        
+
 <!--        Devtools-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -30,6 +30,13 @@
             <scope>runtime</scope>
             <optional>true</optional>
         </dependency>
+
+<!--        Discovery client-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
+
 
 <!--        For client-Calls -->
         <dependency>
