@@ -27,16 +27,6 @@ And in addition prevents the corrects answer from being exposed in the JSON resp
 ```
 - **✨Magic ✨**
 
-## Frontend Implementation:
-- **fetch questions from http://localhost:8011/trivia-api-server/questions** (passes through an API Gateway)
-- **post submitted answer to http://localhost:8011/trivia-api-server/getanswer in the following JSON structure:**
-```sh
-{
-    "question": "What year is it?",
-    "submitted_answer": "2021"
-}
-```
-
 ## Run
 Standalone
 
@@ -55,3 +45,9 @@ _For the entire application to run including an API Gateway & a discovery servic
 
 **This API is part of [a bigger project](https://github.com/1eam/TriviaAPI_Frontend) which includes the frontend (which is still in development)
 For frontend documentation visit https://github.com/1eam/TriviaAPI_Frontend**
+
+## License
+
+none
+
+**Free Software :D**

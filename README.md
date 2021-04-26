@@ -45,3 +45,9 @@ _For the entire application to run including an API Gateway & a discovery servic
 
 **This API is part of [a bigger project](https://github.com/1eam/TriviaAPI_Frontend) which includes the frontend (which is still in development)
 For frontend documentation visit https://github.com/1eam/TriviaAPI_Frontend**
+
+## License
+
+none
+
+**Free Software :D**
